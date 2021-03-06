@@ -1,0 +1,12 @@
+.nav-container {
+}
+.linkList-container {
+  color: #fff;
+  margin: 0 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.links {
+  margin: 0 10px;
+}
