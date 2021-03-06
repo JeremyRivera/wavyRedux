@@ -6,7 +6,7 @@ import App from "./components/App/App";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <StrictMode>
-    <App welcomeText="welcome" />
+    <App />
   </StrictMode>,
   rootElement
 );
